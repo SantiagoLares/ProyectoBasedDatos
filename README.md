@@ -1,2 +1,2 @@
 # ProyectoBasedDatos
-Proyecto final BDI
+Proyecto final terminado BaseDeDatos. integrantes : Lares, Santiago y Ramirez, Juan
